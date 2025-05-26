@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Exemplo de Página Semântica</title>
+</head>
+<body>
+
+  <header>
+    <h1>Meu Site</h1>
+  </header>
+
+  <nav>
+    <a href="#">Início</a> |
+    <a href="#">Sobre</a> |
+    <a href="#">Contato</a>
+  </nav>
+
+  <main>
+    <article>
+      <section>
+        <h2>Sobre mim</h2>
+        <p>Sou estudante e estou aprendendo HTML semântico!</p>
+      </section>
+
+      <section>
+        <h2>Projetos</h2>
+        <p>Aqui estão meus projetos legais.</p>
+      </section>
+    </article>
+
+    <aside>
+      <h3>Links úteis</h3>
+      <ul>
+        <li><a href="#">GitHub</a></li>
+        <li><a href="#">Instagram</a></li>
+      </ul>
+    </aside>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Meu Site</p>
+  </footer>
+
+</body>
+</html>
